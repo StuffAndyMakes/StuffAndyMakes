@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StuffAndyMakes!
 - 👀 I’m interested in woodworking, metalworking (welding, etc.), and electronics (including embedded and Arduino-esque things).
-- 🌱 I’m currently re-learning macOS, iOS, etc. Swift development for various pet projects.
+- 🌱 I’m currently automating an IKEA sit/stand desk with a distance measuring sensor. Also building a device for our hummingbird feeders to squirt woodpeckeers when they land on the feeders.
 - 📫 How to reach me https://StuffAndyMakes.com or andy at [ that domain <-- ].
 
 <!---
